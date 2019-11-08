@@ -24,3 +24,6 @@ Bolt Free Debug v1.2.10
 12. Wait for Player 1 to connect to Player 2.
 13. Have Player 2 hit Send Event button.
 14. Observe Player 1 doesn't receive event.
+
+# Original Forum Discussion
+[link](https://forum.photonengine.com/discussion/15018/bolt-globaleventlistener-onevent-no-longer-receiving-event-messages-after-boltnetwork-shutdown/p1?new=1)
