@@ -9,7 +9,7 @@ Bolt Free Debug v1.2.10
 [download here](https://unity3d.com/get-unity/download/archive)
 
 # Reproduction steps
-0. Clone repository.
+0. Clone repository. Open Unity Project and Compile Bolt.
 1. Build Unity Project.
 2. Run 2 clients.
 3. Have Player 1 hit Host button.
